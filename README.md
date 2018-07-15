@@ -12,4 +12,4 @@ Bilgisayarınızda go yüklü değil ise -> https://golang.org/
 bu komudu terminalden koşturun 
 - go run main.go
 
-dfjksdfnsdnfkl
+dfjksdfnsdnfkldgdfgdfasdsads
